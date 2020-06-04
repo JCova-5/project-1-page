@@ -117,3 +117,4 @@ function reverse(string) {
 
 ## Previous Project Worksheet
  - [Readme's](https://github.com/jkeohan/fewd-class-repo/tree/master/final-project-worksheet/project-worksheet-examples)
+ - Best of class readme()
