@@ -116,4 +116,4 @@ function reverse(string) {
 **RESOLUTION**: Missing comma after first object in sources {} object
 
 ## Previous Project Worksheet
- - [Readmes](https://github.com/jkeohan/fewd-class-repo/tree/master/final-project-worksheet/project-worksheet-examples)
+ - [Readme's](https://github.com/jkeohan/fewd-class-repo/tree/master/final-project-worksheet/project-worksheet-examples)
