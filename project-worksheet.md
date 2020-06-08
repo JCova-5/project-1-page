@@ -34,7 +34,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 ## Time/Priority Matrix 
 
-[Link]()
+[Time/Priority Matrix](https://www.figma.com/file/q3dfFMsRx5wq8gVjxL2kD1/Untitled?node-id=0%3A1)
 
 Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
 
