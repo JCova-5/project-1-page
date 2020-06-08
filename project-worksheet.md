@@ -28,7 +28,8 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Figma](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
+- I have included my wireframe in this link. [Figma](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
+
 
 
 ## Time/Priority Matrix 
