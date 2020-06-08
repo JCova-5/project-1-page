@@ -69,23 +69,24 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | Hamburger | H | 1.5hr | -hr | -hr|
 | Project Previews | H | 3hr | -hr | -hr|
 | Regular Nav | H | 1hr | -hr | -hr|
-| Adding Form | H | 1.5hr| -hr | -hr |
+| Create AboutMe | H | 1.5hr| -hr | -hr |
 | Other sections and flex| M | 2.5hr | -hr | -hr|
-| Working with API | H | 3hrs| -hr | -hr |
+| Create Contact Me | H | 2hrs| -hr | -hr |
 | Responsive | H | 3hr | -hr | -hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 16.5hrs| -hrs | -hrs |
+| Total | H | 15.5hrs| -hrs | -hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Project Hover | L | 2hr | -hr | -hr|
 | Banner letters wiggle | L | 1hr | -hr | -hr|
-| Interactive Banner | M | 3hr | -hr | -hr|
+| CSS Animation | M | 2hr | -hr | -hr|
 | Materialize | H | 4hr | -hr | -hr|
 | Bootstrap | H | 4hr | -hr | -hr|
-| Make own icon | L | 3hr | -hr | -hr|
-| Total | H | 17hrs| -hrs | -hrs |
+| Complete GitHub | L | 3hr | -hr | -hr|
+| Complete YT Vid | L | 1hr | -hr | -hr|
+| Total | H | 16hrs| -hrs | -hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
