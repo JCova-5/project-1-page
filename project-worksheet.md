@@ -8,8 +8,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 1| Wireframes / Priority Matrix / Timeline | Incomplete
+|Day 1| Project Description | Complete
+|Day 1| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Day 4| MVP & Bug Fixes | Incomplete
 |Day 5| Final Touches | Incomplete
@@ -18,7 +18,7 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+Project 1 is the creation of my portfolio. In this repo you will see several of my projects displaying my skills in JQuery, HTML/CSS, Flexbox/Grid, and React.
 
 ## Google Sheet
 
@@ -28,14 +28,7 @@ Include link to your google sheet here.  Here is the sample [Joe had used in cla
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
 
-- [Mobile]()
-- [Tablet](https://mockflow.com/app/#Wireframe)
-- [Desktop](https://www.figma.com/)
-
-Wireframing Resources:
-
-- [Mockflow](https://mockflow.com/app/#Wireframe)
-- [Figma](https://www.figma.com/)
+- [Figma](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
 
 
 ## Time/Priority Matrix 
@@ -56,10 +49,10 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 #### MVP (examples)
 
-- Pull data using google json api
-- Render data on page 
-- Allow user to choose favorites 
-- Save their choices in firebase
+- View an example of one project from my portfolio for each category.
+- Navigate and scroll through the page being able to select a nav element 	or one of the project links taking you to the rest of the projects in that category.
+- Allow user to choose favorites.
+- Contact me on the lower portion of the site using.
 
 #### PostMVP 
 
@@ -67,33 +60,31 @@ The functionality will then be divided into two separate lists: MPV and PostMVP.
 
 ## Functional Components
 
-Based on the initial logic defined in the previous sections try and breakdown the logic further into functional components, and by that we mean functions.  Try and capture what logic would need to be defined if the game was broken down into the following categories.
-
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
+I estimate using Flex for my initial Nav should take no more than 2 hours. Adding content to my page using HTML/CSS to display what I want the user to see should take approximately 2 hours. Organizing the contents using JQuery will take a bit longer and I anticipate that will take about 3-4 hours to complete depending on the responsive portion of the project. The contact portion and input boxes should not take very long and I estimate that will take between 1-2 hours.
 
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | H | 1hr | 1.5hr | -hr|
+| Hamburger | H | 1.5hr | -hr | -hr|
 | Project Previews | H | 3hr | -hr | -hr|
-| Regular Nav | H | H | -hr | -hr|
+| Regular Nav | H | 1hr | -hr | -hr|
 | Adding Form | H | 1.5hr| -hr | -hr |
-| Other sections and flex| M | 4hr | 2hr | -hr|
-| Working with API | H | 3hrs| 2hr | -hr |
+| Other sections and flex| M | 2.5hr | -hr | -hr|
+| Working with API | H | 3hrs| -hr | -hr |
 | Responsive | H | 3hr | -hr | -hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 15.5hrs| -hrs | -hrs |
+| Total | H | 16.5hrs| -hrs | -hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Project Hover | L | 3hr | -hr | -hr|
+| Project Hover | L | 2hr | -hr | -hr|
 | Banner letters wiggle | L | 1hr | -hr | -hr|
-| Interactive Banner | M | 4hr | -hr | -hr|
+| Interactive Banner | M | 3hr | -hr | -hr|
 | Materialize | H | 4hr | -hr | -hr|
 | Bootstrap | H | 4hr | -hr | -hr|
-| Make own icon | L | 4hr | -hr | -hr|
-| Total | H | 20hrs| -hrs | -hrs |
+| Make own icon | L | 3hr | -hr | -hr|
+| Total | H | 17hrs| -hrs | -hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
