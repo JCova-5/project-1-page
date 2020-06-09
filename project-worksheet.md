@@ -4,7 +4,7 @@
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
 
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
+
 
 |  Day | Deliverable | Status
 |---|---| ---|
@@ -22,11 +22,10 @@ Project 1 is the creation of my portfolio. In this repo you will see several of 
 
 ## Google Sheet
 
-Include link to your google sheet here.  Here is the sample [Joe had used in class](https://docs.google.com/spreadsheets/d/15PmioBi2dQEkewpqI7MDkDpvcVF0Trw8vmarAQbwoHk/edit#gid=0) 
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe. Do not include the actual image and have it render on the page.  
+
 
 - I have included my wireframe in this link. [Figma](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
 
@@ -36,19 +35,11 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 
 [Time/Priority Matrix](https://www.figma.com/file/q3dfFMsRx5wq8gVjxL2kD1/Untitled?node-id=0%3A1)
 
-Include a full list of features that have been prioritized based on the `Time and Priority` Matix.  This involves drawing a a square.  In the middle of the square, on the x axis draw a line.  The most left part of the line should start with 0hrs and the end of the line should include 2hrs.  This line will be used to estimate how much time any one feature will take to complete. 
 
-Now draw a vertical line on the y axis.  The top of this line should have `High` and the bottom `Low`.  This line will be used to assign a priority to to each feature you wish to include in the project.  
 
-Now create a separate list starting with A and assign it one of the features.  Continue to assign each feature a letter.  Once complete add each letter to the matrix assigning based on what your feel it's prioirty is an how long it will take to implement. If any one feature takes longer than 2hrs to complete than break it down into smaller tasks and reassign them a new letter. 
+ 
 
-Once complete tally up the time and determine how long the project will take to complete. Now break those features into MVP and PostMVP so you can guarantee you will have a fully functioning project to demo. 
-
-### MVP/PostMVP - 5min
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
-
-#### MVP (examples)
+#### MVP 
 
 - View an example of one project from my portfolio for each category.
 - Navigate and scroll through the page being able to select a nav element 	or one of the project links taking you to the rest of the projects in that category.
@@ -67,7 +58,7 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Hamburger | H | 1.5hr | -hr | -hr|
-| Project Previews | H | 3hr | -hr | -hr|
+| Basic HTML/CSS | H | 3hr | 2hr | -hr|
 | Regular Nav | H | 1hr | -hr | -hr|
 | Create AboutMe | H | 1.5hr| -hr | -hr |
 | Other sections and flex| M | 2.5hr | -hr | -hr|
@@ -82,11 +73,10 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | Project Hover | L | 2hr | -hr | -hr|
 | Banner letters wiggle | L | 1hr | -hr | -hr|
 | CSS Animation | M | 2hr | -hr | -hr|
-| Materialize | H | 4hr | -hr | -hr|
 | Bootstrap | H | 4hr | -hr | -hr|
 | Complete GitHub | L | 3hr | -hr | -hr|
 | Complete YT Vid | L | 1hr | -hr | -hr|
-| Total | H | 16hrs| -hrs | -hrs |
+| Total | H | 13hrs| -hrs | -hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
