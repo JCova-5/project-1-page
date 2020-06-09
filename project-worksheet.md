@@ -18,7 +18,7 @@ This schedule will be used to keep track of your progress throughout the week an
 
 ## Project Description
 
-Project 1 is the creation of my portfolio. In this repo you will see several of my projects displaying my skills in JQuery, HTML/CSS, Flexbox/Grid, and React.
+Project 1 is the creation of my portfolio. In this repo you will see several of my projects displaying my skills in JQuery, HTML/CSS, Flexbox/Grid, and React. Navigating through my portfolio site, you will be able to see the use of HTML/CSS, Flexbox/Grid, and React. This site will constantly be updated as I will continue to add new projects and remove projects. 
 
 ## Google Sheet
 
@@ -27,7 +27,7 @@ Project 1 is the creation of my portfolio. In this repo you will see several of 
 
 
 
-- I have included my wireframe in this link. [Figma](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
+[WireFrame](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
 
 
 
@@ -48,7 +48,9 @@ Project 1 is the creation of my portfolio. In this repo you will see several of 
 
 #### PostMVP 
 
-- Anything else that is not MVP
+- CSS Animations will improve over time.
+- Links will be added to fully display my projects within their sections.
+- 
 
 ## Functional Components
 

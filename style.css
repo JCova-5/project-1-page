@@ -7,5 +7,33 @@ header {
 
 .header {
     padding-left: 90px;
+    background-color: ;
+    display: inline;
+    width: 100%;
+}
+
+
+
+.aboutMe {
     
+}
+
+footer {
+    margin-left: 100px;
+}
+
+#contact {
+    width: 400px;
+    height: 100px;
+    padding: 0px;
+}
+
+input {
+    display: block;
+    margin-top: 10px;
+    background-color: lightgray;
+}
+
+button {
+    margin-top: 10px;
 }
