@@ -59,26 +59,26 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Hamburger | H | 1.5hr | -hr | -hr|
-| Basic HTML/CSS | H | 3hr | 2hr | -hr|
-| Regular Nav | H | 1hr | -hr | -hr|
-| Create AboutMe | H | 1.5hr| -hr | -hr |
-| Other sections and flex| M | 2.5hr | -hr | -hr|
-| Create Contact Me | H | 2hrs| -hr | -hr |
-| Responsive | H | 3hr | -hr | -hr|
+| Hamburger | H | 1.5hr | 1hr | 1hr|
+| Basic HTML/CSS | H | 3hr | 3hr | 3hr|
+| Regular Nav | H | 1hr | 1hr | 1hr|
+| Create AboutMe | H | 1.5hr| 2hr | 2hr |
+| Other sections and flex| M | 2.5hr | 4hr | 4hr|
+| Create Contact Me | H | 2hrs| 2hr | 2hr |
+| Responsive | H | 3hr | 4hr | 4hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 15.5hrs| -hrs | -hrs |
+| Total | H | 15.5hrs| 15hrs | -hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Project Hover | L | 2hr | -hr | -hr|
 | Banner letters wiggle | L | 1hr | -hr | -hr|
-| CSS Animation | M | 2hr | -hr | -hr|
-| Bootstrap | H | 4hr | -hr | -hr|
-| Complete GitHub | L | 3hr | -hr | -hr|
+| CSS Animation | M | 2hr | 3hr | 3hr|
+| Bootstrap | H | 4hr | 2hr | 2hr|
+| Complete GitHub | L | 3hr | 4hr | 4hr|
 | Complete YT Vid | L | 1hr | -hr | -hr|
-| Total | H | 13hrs| -hrs | -hrs |
+| Total | H | 13hrs| 9hrs | -hrs |
 
 ## Additional Libraries
  Use this section to list all supporting libraries and thier role in the project. 
