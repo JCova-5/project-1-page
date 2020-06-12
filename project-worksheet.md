@@ -42,8 +42,8 @@ https://docs.google.com/spreadsheets/d/1Q6qAxoDVayrFdtsqjwHaoVy0LLPMmBNA3jFF_MwJ
 
 - View an example of one project from my portfolio for each category.
 - Navigate and scroll through the page being able to select a nav element 	or one of the project links taking you to the rest of the projects in that category.
-- Allow user to choose favorites.
-- Contact me on the lower portion of the site using.
+- Allow user to choose see the where the project was created along with its code.
+- Contact me on the lower portion of the site using the form at the bottom of the page.
 
 #### PostMVP 
 
@@ -58,15 +58,18 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 #### MVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
+| Project Planning | H | 2hr | 2.5hr | 2.5hr|
 | Hamburger | H | 1.5hr | 1hr | 1hr|
 | Basic HTML/CSS | H | 3hr | 3hr | 3hr|
 | Regular Nav | H | 1hr | 1hr | 1hr|
+| Bottom Nav | H | 1hr | 1hr | 1hr|
 | Create AboutMe | H | 1.5hr| 2hr | 2hr |
 | Other sections and flex| M | 2.5hr | 4hr | 4hr|
 | Create Contact Me | H | 2hrs| 2hr | 2hr |
 | Responsive | H | 3hr | 4hr | 4hr|
+| Bug Fixes | H | 3hr | 4hr | 4hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 15.5hrs| 15hrs | 15hrs |
+| Total | H | 15.5hrs| 24.5hrs | 24.5hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
@@ -76,8 +79,8 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | CSS Animation | M | 2hr | 3hr | 3hr|
 | Bootstrap | H | 4hr | 2hr | 2hr|
 | Complete GitHub | L | 3hr | 4hr | 4hr|
-| Complete YT Vid | L | 1hr | -hr | -hr|
-| Total | H | 13hrs| 9hrs | -hrs |
+| Complete YT Vid | L | 1hr | 2hr | 2hr|
+| Total | H | 13hrs| 11hrs | 11hrs |
 
 ## Additional Libraries
  - https://www.w3schools.com/howto/howto_css_contact_form.asp: Used for referencing minor issues and fixes.
