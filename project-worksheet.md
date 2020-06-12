@@ -2,10 +2,13 @@
 
 https://jcova-5.github.io/project-1-page/
 
+## YouTube Link
+
+https://youtu.be/X43BhT2gHw4
+
 ## Project Schedule
 
 This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
 
 
 |  Day | Deliverable | Status
@@ -77,10 +80,10 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | Total | H | 13hrs| 9hrs | -hrs |
 
 ## Additional Libraries
- -https://www.w3schools.com/howto/howto_css_contact_form.asp: Used for referencing minor issues and fixes.
+ - https://www.w3schools.com/howto/howto_css_contact_form.asp: Used for referencing minor issues and fixes.
  - https://code.jquery.com/jquery-3.4.1.min.js: Used to extract projects data and images from google sheet.
  - https://getbootstrap.com/docs/4.5/components/card/: Editing the display of my projects on the page.
- - 
+ 
 
 ## Code Snippet
 
