@@ -18,6 +18,10 @@ body {
     text-align: center;
 }
 
+.nav {
+    cursor: pointer;
+}
+
 
 
 #skills {

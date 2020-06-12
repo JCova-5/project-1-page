@@ -1,4 +1,6 @@
-# Project Overview
+# Project Link
+
+https://jcova-5.github.io/project-1-page/
 
 ## Project Schedule
 
@@ -11,33 +13,27 @@ This schedule will be used to keep track of your progress throughout the week an
 |Day 1| Project Description | Complete
 |Day 1| Wireframes / Priority Matrix / Timeline | Complete
 |Day 3| Core Application Structure (HTML, CSS, etc.) | Complete
-|Day 4| MVP & Bug Fixes | Partially Complete
-|Day 5| Final Touches | Incomplete
+|Day 4| MVP & Bug Fixes | Complete
+|Day 5| Final Touches | Complete
 |Day 6| Present | Incomplete
 
 
 ## Project Description
 
-Project 1 is the creation of my portfolio. In this repo you will see several of my projects displaying my skills in JQuery, HTML/CSS, Flexbox/Grid, and React. Navigating through my portfolio site, you will be able to see the use of HTML/CSS, Flexbox/Grid, and React. This site will constantly be updated as I will continue to add new projects and remove projects. 
+Project 1 is the creation of my portfolio. In this repo you will see my portfolio webpage in which several of my projects display my skills in JQuery, HTML/CSS, Flexbox/Grid, and soon React. Navigating through my portfolio site, you will be able to see the use of HTML/CSS, Flexbox/Grid, and JQuery. This site will constantly be updated as I will continue to add new projects and remove projects. 
 
 ## Google Sheet
 
+https://docs.google.com/spreadsheets/d/1Q6qAxoDVayrFdtsqjwHaoVy0LLPMmBNA3jFF_MwJxPI/edit#gid=0
 
 ## Wireframes
 
-
-
 [WireFrame](https://www.figma.com/file/z9tyc9XTJXGGIBbI787nte/Untitled?node-id=0%3A1)
-
-
 
 ## Time/Priority Matrix 
 
 [Time/Priority Matrix](https://www.figma.com/file/q3dfFMsRx5wq8gVjxL2kD1/Untitled?node-id=0%3A1)
 
-
-
- 
 
 #### MVP 
 
@@ -50,7 +46,7 @@ Project 1 is the creation of my portfolio. In this repo you will see several of 
 
 - CSS Animations will improve over time.
 - Links will be added to fully display my projects within their sections.
-- 
+
 
 ## Functional Components
 
@@ -67,7 +63,7 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | Create Contact Me | H | 2hrs| 2hr | 2hr |
 | Responsive | H | 3hr | 4hr | 4hr|
 | Social Media Icons | L | 1hr | -hr | -hr|
-| Total | H | 15.5hrs| 15hrs | -hrs |
+| Total | H | 15.5hrs| 15hrs | 15hrs |
 
 #### PostMVP
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
@@ -81,25 +77,22 @@ I estimate using Flex for my initial Nav should take no more than 2 hours. Addin
 | Total | H | 13hrs| 9hrs | -hrs |
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project. 
+ -https://www.w3schools.com/howto/howto_css_contact_form.asp: Used for referencing minor issues and fixes.
+ - https://code.jquery.com/jquery-3.4.1.min.js: Used to extract projects data and images from google sheet.
+ - https://getbootstrap.com/docs/4.5/components/card/: Editing the display of my projects on the page.
+ - 
 
 ## Code Snippet
 
-Use this section to include a brief code snippet of functionality that you are proud of an a brief description  
+https://res.cloudinary.com/da1ccujse/image/upload/v1591930515/Screen_Shot_2020-06-11_at_7.52.55_PM_bv1f9n.png
 
-```
-function reverse(string) {
-	// here is the code to reverse a string of text
-}
-```
+This was the algorithm used to extract the data from a google sheet using JSON, JQuery and Javascript.
 
 ## Issues and Resolutions
- Use this section to list of all major issues encountered and their resolution.
+ *I encountered issues uploading data from the googlesheet. Images were not appearing and there were no errors shown in my developer tools. I was able to change the algorithm and use bootstrap which made pulling data a little clearer and a little more organized.
 
-#### SAMPLE.....
-**ERROR**: app.js:34 Uncaught SyntaxError: Unexpected identifier                                
-**RESOLUTION**: Missing comma after first object in sources {} object
+ *Styling gave me trouble. When I first uploaded my content to the page the initial layout was changed completely. I deleted everything on my stylesheet and started over which made everything clear and I was able to find a solution.
 
-## Previous Project Worksheet
- - [Readme's](https://github.com/jkeohan/fewd-class-repo/tree/master/final-project-worksheet/project-worksheet-examples)
- - [Best of class readme](https://github.com/jkeohan/fewd-class-repo/blob/master/final-project-worksheet/project-worksheet-examples/portfolio-gracie.md)
+ *Initially I set all my content through HTML and CSS and nothing from JQuery. I went back into fix the issue and had to change the algorithm so that the content was coming from javascript and jquery and not just Bootstrap on HTML.
+
+
